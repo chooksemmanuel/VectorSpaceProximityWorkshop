@@ -4,9 +4,9 @@
 ---
 
 ## 👥 Team Members
-- Emmanuel Ihejiamaizu (Chooks)
+- Emmanuel Ihejiamaizu
 - Liggia Elena Taboada Cruz
-- Chao-Chung Liu (Thomas)
+- Chao-Chung Liu
 
 ---
 
@@ -18,11 +18,11 @@
 **Records:** 1,551 CVE entries (200 sampled for this workshop)  
 **Domain:** Cybersecurity — real vulnerability records published by the U.S. Cybersecurity and Infrastructure Security Agency  
 
-**Why we chose it:**
-- Real government-verified data — no synthetic corpus
-- Built-in relevance labels: `knownRansomwareCampaignUse == 'Known'` = Relevant
-- Rich cybersecurity vocabulary ideal for TF-IDF and IR evaluation
-- Directly relevant to our team's specialisation in AI + Cybersecurity
+**Why the choice?:**
+- This contains real government-verified data, which means no synthetic corpus
+- It also includes built-in relevance labels. For example; `knownRansomwareCampaignUse == 'Known'` = Relevant
+- There is a very rich cybersecurity vocabulary, which is ideal for TF-IDF and IR evaluation
+- The corpus is directly relevant to our team's specialisation in AI + Cybersecurity
 
 ---
 
