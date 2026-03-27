@@ -45,7 +45,7 @@ We built a complete Information Retrieval pipeline over 200 CISA CVE vulnerabili
 
 | File | Description |
 |---|---|
-| `VectorSpaceProximityWorkshop.ipynb` | Main workshop notebook — full IR pipeline + evaluation |
+| `VectorSpaceProximityWorkshop_Merged.ipynb` | Main workshop notebook — full IR pipeline + evaluation |
 | `known_exploited_vulnerabilities.csv` | CISA KEV dataset (download from source URL above) |
 | `README.md` | This file |
 
