@@ -56,7 +56,7 @@ We built a complete Information Retrieval pipeline over 200 CISA CVE vulnerabili
 ```bash
 python -m venv venv
 venv\Scripts\activate        # Windows
-pip install numpy pandas scikit-learn matplotlib nltk jupyter
+pip install -r requirements.txt
 jupyter notebook VectorSpaceProximityWorkshop.ipynb
 ```
 
