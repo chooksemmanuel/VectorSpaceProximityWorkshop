@@ -1,0 +1,29 @@
+# --- Virtual Environments---
+
+venv/
+.venv/
+LAB7venv/
+env/
+bin/
+include/
+lib/
+share/
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---OS Metadata ---
+.DS_Store
+Thumbs.db
+
+# --- Logs and Temps ---
+*.log
+tmp/
